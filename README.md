@@ -1,4 +1,4 @@
-# laser-ldr-security-system
+# Laser-Ldr-Alarm-System
 This low-cost security system uses a laser and Light-Dependent Resistor (LDR) to detect door openings and trigger alarms. The signal is processed via a comparator and 555 Timer IC to trigger a buzzer and LED for audible and visual alerts. It’s designed to provide simple, reliable, and affordable home security, especially for vulnerable groups like elderly individuals living alone.
 
 # Working Principle:
